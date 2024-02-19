@@ -1,2 +1,1 @@
-# Write your code below this line 👇
-print("Hello World")
+print("Sup "+input("what is your name?"))
